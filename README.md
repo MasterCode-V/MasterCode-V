@@ -1,6 +1,8 @@
 ## ⌛ To plan goal with thinking to live whole life, to live with thinking today is the last day of my life! / 人生のすべてを生き抜くつもりで目標を立て、今日が人生最後の日であるかのように生きる！ ⌛
 
-## Senior Full Stack Developer Mainly focused on OpenAI, Blockchain and Frontend development
+## Senior Full Stack Developer Mainly focused on OpenAI, Blockchain & AI Engineer & Mobile developer
+
+##シニア・フルスタック開発者（主にOpenAI、ブロックチェーン、AIエンジニアリング、およびモバイル開発を担当）
 
 
 ## GitHub Profile Trophy 🏆🏆🏆
