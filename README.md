@@ -2,7 +2,6 @@
 
 ## Senior Full Stack Developer Mainly focused on OpenAI, Blockchain and Frontend development
 
- <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
 
 ## GitHub Profile Trophy 🏆🏆🏆
 
