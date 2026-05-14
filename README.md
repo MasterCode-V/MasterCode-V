@@ -258,11 +258,11 @@
 
 ## To plan goal with thinking to live whole life, to live with thinking today is the last day of my life. ⌛
 
-<li>Believe you can and you’re halfway there.</li>
-<li>Success is not final, failure is not fatal: It is the courage to continue that counts.</li>
-<li>It always seems impossible until it’s done.</li>
-<li>The only limit to our realization of tomorrow is our doubts of today.</li>
-<li>The future belongs to those who believe in the beauty of their dreams.</li>
+<li>Believe you can and you’re halfway there / 自分にはできると信じれば、もう半分は成し遂げたも同然だ。.</li>
+<li>Success is not final, failure is not fatal: It is the courage to continue that counts. / 成功は最終的なものではなく、失敗も致命的なものではない。大切なのは、続ける勇気である。</li>
+<li>It always seems impossible until it’s done./ 成し遂げられるまでは、常に不可能に思えるものだ。</li>
+<li>The only limit to our realization of tomorrow is our doubts of today./ 明日を実現する上での唯一の限界は、今日の我々の疑念である。</li>
+<li>The future belongs to those who believe in the beauty of their dreams. / 未来は、自らの夢の美しさを信じる人々のものだ。 </li>
 <hr />
 
 <div align="center" style="border-radius:30px;">
